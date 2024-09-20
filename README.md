@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is InstantName and these are my discord bot templates written in py-cord</p>
+<p align="left">My name is InstantName and these are my discord bot templates using py-cord</p>
 
 ###
 
